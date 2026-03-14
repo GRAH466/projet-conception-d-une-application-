@@ -1,0 +1,10 @@
+C:\Users\yyabi\source\repos\Mini_projet\Mini_projet\bin\Debug\Mini_projet.exe.config
+C:\Users\yyabi\source\repos\Mini_projet\Mini_projet\bin\Debug\Mini_projet.exe
+C:\Users\yyabi\source\repos\Mini_projet\Mini_projet\bin\Debug\Mini_projet.pdb
+C:\Users\yyabi\source\repos\Mini_projet\Mini_projet\obj\Debug\Mini_projet.csproj.AssemblyReference.cache
+C:\Users\yyabi\source\repos\Mini_projet\Mini_projet\obj\Debug\Mini_projet.Form1.resources
+C:\Users\yyabi\source\repos\Mini_projet\Mini_projet\obj\Debug\Mini_projet.Properties.Resources.resources
+C:\Users\yyabi\source\repos\Mini_projet\Mini_projet\obj\Debug\Mini_projet.csproj.GenerateResource.cache
+C:\Users\yyabi\source\repos\Mini_projet\Mini_projet\obj\Debug\Mini_projet.csproj.CoreCompileInputs.cache
+C:\Users\yyabi\source\repos\Mini_projet\Mini_projet\obj\Debug\Mini_projet.exe
+C:\Users\yyabi\source\repos\Mini_projet\Mini_projet\obj\Debug\Mini_projet.pdb
